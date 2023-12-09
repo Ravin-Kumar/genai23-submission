@@ -2,6 +2,8 @@
 langchain
 openai
 chromadb
+django
 python-dotenv
 gpt4all
-pysimplegui
+django-crispy-forms
+crispy-bootstrap5
