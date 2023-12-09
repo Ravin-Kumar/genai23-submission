@@ -6,13 +6,13 @@ PhiloGPT
 
 Team name: Loading...
 ==
-Ebil Jacob (ebilj@andrew.cmu.edu)
+Ebil Jacob ([RobbyTato](https://github.com/RobbyTato); ebilj@andrew.cmu.edu)
 
-Salman Hajizada (shajizad@andrew.cmu.edu)
+Salman Hajizada ([Sal0-h](https://github.com/sal0-h); shajizad@andrew.cmu.edu)
 
-Mohamed Waeil Shikfa (mshikfa@andrew.cmu.edu)
+Mohamed Waiel Shikfa ([Mohamed-Waiel-Shikfa](https://github.com/Mohamed-Waiel-Shikfa); mshikfa@andrew.cmu.edu)
 
-Ravin Kumar (ravink@andrew.cmu.edu)
+Ravin Kumar ([Ravin-Kumar](https://github.com/Ravin-Kumar); ravink@andrew.cmu.edu)
 
 Description
 ==
