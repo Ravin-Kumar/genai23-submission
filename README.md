@@ -20,7 +20,9 @@ PhiloGPT is a GenAI application using OpenAI's GPT Language models and the Stanf
 
 Often, philosophical texts can be dense and difficult to understand for those without a background in the field. This is why we have created PhiloGPT to summarise and simplify complex philosophical ideas into easier to understand language.
 
-
+Running the project
+==
+Run main/settings.py to localhost the website 
 
 
 This repo is our submission for QCRI Generative AI Hackathon 2023 ([website](https://genai23.qcri.org))
