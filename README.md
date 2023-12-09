@@ -16,7 +16,7 @@ Ravin Kumar ([Ravin-Kumar](https://github.com/Ravin-Kumar); ravink@andrew.cmu.ed
 
 Description
 ==
-PhiloGPT is a GenAI application using OpenAI's GPT4 and the Stanford Philosophy Encyclopedia to bridge the gap between philosophy and accessibility. It aims to make philosophical texts more accessible to a wider audience by utilising generative AI capabilities.
+PhiloGPT is a GenAI application using OpenAI's GPT Language models and the Stanford Philosophy Encyclopedia to bridge the gap between philosophy and accessibility. It aims to make philosophical texts more accessible to a wider audience by utilising generative AI capabilities.
 
 Often, philosophical texts can be dense and difficult to understand for those without a background in the field. This is why we have created PhiloGPT to summarise and simplify complex philosophical ideas into easier to understand language.
 
