@@ -1,21 +1,26 @@
 This repo is our submission for QCRI Generative AI Hackathon 2023 ([website](https://genai23.qcri.org))
 
 
-Write Project Name
+PhiloGPT
 ====
 
-Write Team Name:
+Team name: Loading...
 ==
-First Member (first_member@email.com)
-Second Memeber (second_member@email.com)
+Ebil Jacob (ebilj@andrew.cmu.edu)
+
+Salman Hajizada (shajizad@andrew.cmu.edu)
+
+Mohamed Waeil Shikfa (mshikfa@andrew.cmu.edu)
+
+Ravin Kumar (ravink@andrew.cmu.edu)
 
 Description
 ==
-This project is a template for submission to QCRI Generative AI Hackathon 2023. It does:
-1. submission should fork this project and update the README
-2. code and data should be contained in this repo
-3. README.md should keep the first and last line with reference to Generative AI Hackathon
-4. submit by Saturday 3:30 with this form [https://forms.office.com/r/PUs9qpVNbf](https://forms.office.com/r/PUs9qpVNbf)
+PhiloGPT is a GenAI application using OpenAI's GPT4 and the Stanford Philosophy Encyclopedia to bridge the gap between philosophy and accessibility. It aims to make philosophical texts more accessible to a wider audience by utilising generative AI capabilities.
+
+Often, philosophical texts can be dense and difficult to understand for those without a background in the field. This is why we have created PhiloGPT to summarise and simplify complex philosophical ideas into easier to understand language.
+
+
 
 
 This repo is our submission for QCRI Generative AI Hackathon 2023 ([website](https://genai23.qcri.org))
