@@ -4,3 +4,4 @@ openai
 chromadb
 python-dotenv
 gpt4all
+pysimplegui
